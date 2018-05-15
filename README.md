@@ -1,2 +1,2 @@
 # JQuery-UI
-Código fuente de la prueba de concepto relacionada con JQuery UI
+Prueba de Concepto relacionada con JQuery UI
